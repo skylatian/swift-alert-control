@@ -7,13 +7,13 @@ A simple program written in swift to control the MacOS ringer/alert volume from 
 
 <thead> 
   <tr>
-    <td class="tg-0pky" colspan="2" rowspan="2"><img height = "100" src="images/menubar_mute.png"></td>
-    <td class="tg-0pky" colspan="3" rowspan="4"><img height = "220" src="images/app_expanded.png" alt="image" /></td>
+    <td class="tg-0pky" colspan="2" rowspan="2"><img height = "100" src="../images/menubar_mute.png"></td>
+    <td class="tg-0pky" colspan="3" rowspan="4"><img height = "220" src="../images/app_expanded.png" alt="image" /></td>
   </tr>
   <tr>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2" rowspan="2"><img height = "100"src="images/menubar_unmute.png"></td>
+    <td class="tg-0pky" colspan="2" rowspan="2"><img height = "100"src="../images/menubar_unmute.png"></td>
   </tr>
   <tr>
   </tr>
